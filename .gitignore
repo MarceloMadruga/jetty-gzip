@@ -1,0 +1,20 @@
+# Maven
+/.settings
+/target
+*/target/
+/bin
+*/bin/
+
+# Eclipse files
+*/.settings
+*/.classpath
+*/.project
+*/.settings/
+.classpath
+.project
+*/.gitignore
+
+# Mac Files
+.DS_Store
+/bin/
+
